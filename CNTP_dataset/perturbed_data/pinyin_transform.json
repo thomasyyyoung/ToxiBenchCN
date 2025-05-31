@@ -16240,18 +16240,6 @@
             "perturbed_text": "都是一些wglz的LKD"
         },
         {
-            "sentence_id": 6933,
-            "original_text": "黑人专门勾搭中国妇女",
-            "is_toxic": true,
-            "toxic_entity": [
-                "黑人",
-                "勾搭",
-                "中国妇女"
-            ],
-            "toxic_ratio": 0.5,
-            "perturbed_text": "hr专门gdzgfn"
-        },
-        {
             "sentence_id": 6941,
             "original_text": "楼上真是一个无耻透顶的女人",
             "is_toxic": true,

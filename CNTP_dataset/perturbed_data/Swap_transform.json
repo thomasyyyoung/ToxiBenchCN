@@ -12251,17 +12251,6 @@
             "perturbed_text": "国外媳妇的日，话韩越的还能接受，至同少人种。"
         },
         {
-            "sentence_id": 5186,
-            "original_text": "哎，我就不一样了，是外来入侵人我就歧视",
-            "is_toxic": true,
-            "toxic_entity": [
-                "外来入侵人",
-                "歧视"
-            ],
-            "toxic_ratio": 0.4,
-            "perturbed_text": "哎，我就不一样了外是，来入侵人我就视歧"
-        },
-        {
             "sentence_id": 5187,
             "original_text": "这很niggeг",
             "is_toxic": true,
