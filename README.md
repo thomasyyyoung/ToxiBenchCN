@@ -10,7 +10,8 @@
   <sup>4</sup>Nanyang Technological University, Singapore.<br>
   <code>{thomasyang0925, jialiang.lu}@sjtu.edu.cn, qiuhan@tsinghua.edu.cn</code>
 </p>
-## 🔍 Overview
+
+## 📖 Overview
 
 This project introduces **ToxiBenchCN**, a comprehensive benchmark for evaluating the robustness of large language models (LLMs) in detecting **perturbed toxic Chinese content**. Based on a novel taxonomy of **8 multimodal perturbation techniques** (visual, phonetic, semantic), we curate a dataset (CNTP) and benchmark 9 SOTA LLMs, revealing key weaknesses and overcorrection patterns. We also explore two lightweight enhancement strategies: **In-context learning (ICL)** and **supervised fine-tuning (SFT)**.
 
