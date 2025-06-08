@@ -32,7 +32,7 @@ This project introduces **ToxiBenchCN**, a comprehensive benchmark for evaluatin
 | Semantic       | Shuffle      | Shuffle character order to alter semantic structure          |
 |                | Emoji        | Replace characters with emojis to express offensive meanings |
 
-![examples of 8 perturbations](images\examples_of_perturbations.png)
+<img src="images\examples_of_perturbations.png" alt="examples of 8 perturbations">
 
 
 
