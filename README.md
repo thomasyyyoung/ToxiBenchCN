@@ -32,12 +32,10 @@ This project introduces **ToxiBenchCN**, a comprehensive benchmark for evaluatin
 | Semantic       | Shuffle      | Shuffle character order to alter semantic structure          |
 |                | Emoji        | Replace characters with emojis to express offensive meanings |
 
-
+**Examples of 8 perturbations:** 
 <div style="width: 100%; text-align: center;">
   <img src="images/examples_of_perturbations.png" alt="examples of 8 perturbations" style="width: 80%;">
-  <div style="margin-top: 8px; font-size: 16px;">Examples of 8 perturbations</div>
 </div>
-
 
 
 ## 🔍 Key Findings
