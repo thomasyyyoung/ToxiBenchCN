@@ -33,10 +33,11 @@ This project introduces **ToxiBenchCN**, a comprehensive benchmark for evaluatin
 |                | Emoji        | Replace characters with emojis to express offensive meanings |
 
 
-<div style="text-align: center;">
-  <img src="images/examples_of_perturbations.png" alt="examples of 8 perturbations" style="width: 90%;">
-  <p>Examples of 8 perturbations</p>
+<div style="width: 100%; text-align: center;">
+  <img src="images/examples_of_perturbations.png" alt="examples of 8 perturbations" style="width: 80%;">
+  <div style="margin-top: 8px; font-size: 16px;">Examples of 8 perturbations</div>
 </div>
+
 
 
 ## 🔍 Key Findings
